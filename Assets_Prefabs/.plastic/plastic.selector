@@ -1,0 +1,4 @@
+repository "Assets_Prefabs/Assets_Prefabs@5773551076103@cloud"
+  path "/"
+    br "/main"
+    co "/main"
